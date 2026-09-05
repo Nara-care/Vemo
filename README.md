@@ -20,7 +20,7 @@
 ## 📥 Unduh & Pasang Cepat (Ready to Play)
 
 Berkas instalasi APK siap pakai tersedia langsung di dalam repositori ini:
-- 📱 **[`Vemo (beta).apk`](./Vemo%20%28beta%29.apk)** (~70 MB)
+- 📱 **[`Vemo (beta).apk`](./Vemo.beta.apk)** (~70 MB)
 - Kompatibilitas: Android 8.0 (API 26) ke atas • Arsitektur: **ARM64-v8a**
 - Langsung pasang ke perangkat Android kamu tanpa perlu proses *compile* manual.
 
